@@ -12,3 +12,7 @@ For each resort, I have used web scraping to obtain the following data:
   - State
   - Annual snowfall
   - Owner
+
+Future ideas:
+
+  - Include season pass prices, including Epic/Ikon passes. See how quickly season pass pays off vs day ticket
