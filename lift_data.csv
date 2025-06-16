@@ -1,0 +1,441 @@
+name,Tram,Gondola,Pulse Gondola,Cabriolet,8-pack,6-pack,Chondola,Detach Quad,Fixed Quad,Triple,Detach Triple,Double,Single,T-Bar,J-Bar,Poma/platter,Ropetow,Carpet,total_lifts,surface_lifts_only
+Cloudmont,,,,,,,,,,,,,,,,,1,,1,Yes
+Alyeska,1,,,,,,,2,2,,,,,,,,,1,6,No
+Arctic Valley,,,,,,,,,,,,2,,1,,,1,,4,No
+Fort Wainwright – Birch Hill,,,,,,,,,,,,1,,,,,,1,2,No
+Eaglecrest,,,,,,,,,,,,4,,,,,,,4,No
+Hillberg,,,,,,,,,,,,1,,,,,2,,3,No
+Hilltop,,,,,,,,,,1,,,,,,1,,1,3,No
+Moose Mountain,,,,,,,,,,,,,,,,,1,,1,Yes
+Mount Eyak,,,,,,,,,,,,,1,,,,1,,2,No
+Skeetawk,,,,,,,,,,1,,,,,,,,,1,No
+Skiland – Mt. Aurora,,,,,,,,,,,,1,,,,,,1,2,No
+Arizona Snowbowl,,,,,,1,1,,3,1,,,,,,,,2,8,No
+Mount Lemmon,,,,,,,,,,,,2,,,,,1,,3,No
+Sunrise Park,,,,,,,,1,2,2,,1,,,,,1,1,8,No
+Alta Sierra,,,,,,,,,,,,2,,,,,1,,3,No
+Badger Pass,,,,,,,,,,1,,3,,,,,,,4,No
+Big Bear: Bear Mountain,,,,,,1,,2,,2,,2,,,,,,4,11,No
+Bear Valley,,,,,,1,,1,1,2,,2,,,,,,2,9,No
+Boreal,,,,,,,,1,2,3,,,,,,,,2,8,No
+China Peak,,,,,,,,,2,4,,,,1,,,,4,11,No
+Coppervale,,,,,,,,,,,,,,,,1,1,,2,Yes
+Dodge Ridge,,,,,,,,,1,3,,3,,1,,,1,2,11,No
+Donner Ski Ranch,,,,,,,,,,1,,5,,,,,,1,7,No
+Granlibakken,,,,,,,,,,,,,,,,1,1,,2,Yes
+Heavenly,1,1,,,,2,,8,1,5,,2,,,,,2,4,26,No
+Homewood Mountain Resort,,,,,,,,1,,3,,,,,,1,,1,6,No
+June Mountain,,,,,,,,2,,,,4,,,,,,1,7,No
+Kirkwood,,,,,,,,2,1,6,,1,,1,,,,2,13,No
+Mammoth Mountain,,2,,,,4,,8,1,6,,3,,,,1,,2,27,No
+Mount Baldy,,,,,,,,,,,,4,,,,,,,4,No
+Mount Shasta Ski Park,,,,,,,,,1,3,,,,,,,,2,6,No
+Mt. Waterman,,,,,,,,,,,,3,,,,,,,3,No
+Mountain High: East,,,,,,,,1,1,,,2,,,,,,1,5,No
+Mountain High: West,,,,,,,,1,,3,,2,,,,,,2,8,No
+Northstar California Resort,,1,1,,,1,1,6,1,2,,,,,,1,1,5,20,No
+Palisades Tahoe,1,2,,,,8,,5,1,10,,8,,,,,,7,42,No
+Sierra at Tahoe,,,,,,,,3,,1,,5,,,,,,5,14,No
+Big Bear: Snow Summit,,,,,,,,2,2,2,,4,,,,,,5,15,No
+Big Bear: Snow Valley,,,,,,1,,,,4,,4,,,,,,2,11,No
+Soda Springs,,,,,,,,,,1,,1,,,,,,1,3,No
+Sugar Bowl,,1,,,,,,5,3,1,,,,,,1,,1,12,No
+Tahoe Donner,,,,,,,,,1,1,,,,,,,,3,5,No
+Arapahoe Basin,,,,,,1,,2,2,,,1,,,,,1,2,9,No
+Aspen Highlands,,,,,,,,3,,2,,1,,,,,,,6,No
+Aspen Mountain,,1,,,,,,2,1,,1,3,,,,,,,8,No
+Beaver Creek,,2,,,,,1,12,1,1,,1,,,,,,7,25,No
+Breckenridge,,1,,,,5,,8,1,1,,4,,1,,3,,11,35,No
+Buttermilk Mountain,,,,,,,,3,,,,1,,,,,1,1,6,No
+Chapman Hill,,,,,,,,,,,,,,,,1,1,,2,Yes
+Copper Mountain,,,,,,3,1,3,,5,,4,,1,,2,,6,25,No
+Cranor Ski Hill,,,,,,,,,,,,,,,,1,,,1,Yes
+Crested Butte,,,,,,,,4,3,3,,,,2,,,,3,15,No
+Echo Mountain – Idaho Springs,,,,,,,,,,1,,,,,,,,1,2,No
+Eldora Mountain,,,,,,1,,,2,1,,3,,,,1,1,1,10,No
+Frisco Adventure Park,,,,,,,,,,,,,,,,,,1,1,Yes
+Granby Ranch,,,,,,,,1,1,1,,1,,,,,,2,6,No
+Hesperus Ski Area,,,,,,,,,,,,1,,,,,,,1,No
+Hoedown Hill,,,,,,,,,,,,,,,,,,4,4,Yes
+Howelsen Hill,,,,,,,,,,1,,,,,,1,,2,4,No
+Kendall Mountain,,,,,,,,,,,,1,,,,,,,1,No
+Keystone,,2,,,,4,,3,1,1,,2,,,,,,7,20,No
+Lake City Ski Hill,,,,,,,,,,,,,,,,1,,,1,Yes
+Lee’s Ski Hill,,,,,,,,,,,,,,,,,1,,1,Yes
+Loveland,,,,,,,,1,2,4,,,,,,,,,7,No
+Monarch,,,,,,,,,1,1,,4,,,,,,1,7,No
+Powderhorn,,,,,,,,1,,,,2,,,,,,2,5,No
+Purgatory,,,,,,1,,2,,4,,3,,,,,,2,12,No
+Silverton Mountain,,,,,,,,,,,,1,,,,,,,1,No
+Ski Cooper,,,,,,,,,,1,,1,,1,,1,,1,5,No
+Snowmass,,1,1,,,3,,6,2,,,1,,1,,3,,2,20,No
+Steamboat,,2,1,,,1,,8,,4,,2,,,,,1,6,25,No
+Sunlight Mountain,,,,,,,,,1,2,,,,,,,,7,10,No
+Telluride,,2,,,,,1,7,1,1,,2,,,,2,,3,19,No
+Vail Mountain,,2,,,,4,,14,1,2,,,,1,,3,,5,32,No
+Winter Park Resort,,1,,1,,4,,5,,3,,6,,,,1,,3,24,No
+Wolf Creek,,,,,,,,3,2,2,,1,,,,1,,2,11,No
+Mohawk Mountain,,,,,,,,,,5,,,,,,,,3,8,No
+Mount Southington,,,,,,,,,,3,,1,,,,,,3,7,No
+Powder Ridge Mountain Park (Connecticut),,,,,,,,,,1,,2,,,,,,2,5,No
+Sundown (Connecticut),,,,,,,,,1,2,,,,,,,,2,5,No
+Bald Mountain,,,,,,,,,,,,,,1,,,1,,2,Yes
+Bogus Basin,,,,,,,,4,2,,,1,,,,,,3,10,No
+Brundage Mountain,,,,,,,,2,,3,,,,,,,,1,6,No
+Chipmunk Hills,,,,,,,,,,,,,,,,,1,,1,Yes
+Cottonwood Butte,,,,,,,,,,,,,,1,,,,,1,Yes
+Kelly Canyon,,,,,,,,,,1,,2,,,,,,1,4,No
+Little Ski Hill,,,,,,,,,,,,,,1,,,,,1,Yes
+Lookout Pass,,,,,,,,,2,2,,1,,,,,,,5,No
+Magic Mountain (Idaho),,,,,,,,,,,,1,,,,,,2,3,No
+Pebble Creek,,,,,,,,,,3,,,,,,,,1,4,No
+Pomerelle,,,,,,,,,,2,,,,,,,,1,3,No
+Rotarun,,,,,,,,,,,,,,,,1,1,,2,Yes
+Schweitzer Mountain Resort,,,,,,1,,4,,2,,1,,1,,,,1,10,No
+Silver Mountain,,1,,,,,,,1,2,,2,,,,,,,6,No
+Snowhaven,,,,,,,,,,,,,,1,,,,,1,Yes
+Soldier Mountain,,,,,,,,,,,,2,,,,,,1,3,No
+Sun Valley: Bald Mountain,,1,,,,2,,6,,2,,,,,,,,1,12,No
+Sun Valley: Dollar Mountain,,,,,,,,2,,1,,1,,,,,,1,5,No
+Tamarack Resort,,,,,,,,3,2,,,,,,,1,,1,7,No
+Chestnut Mountain,,,,,,,,,2,4,,,,,,,1,2,9,No
+Four Lakes,,,,,,,,,,,,,,,,,7,,7,Yes
+Snowstar,,,,,,,,,2,,,2,,,,,,1,5,No
+Villa Olivia,,,,,,,,,1,,,,,,,,6,,7,No
+Paoli Peaks,,,,,,,,,1,3,,1,,,,,,2,7,No
+Perfect North Slopes,,,,,,,,,3,2,,,,,,,2,5,12,No
+Mount Crescent,,,,,,,,,1,,,1,,,,,,,2,No
+Seven Oaks,,,,,,,,,,2,,,,,,,3,,5,No
+Sundown (Iowa),,,,,,,,,1,1,,2,,,,,,2,6,No
+BigRock Mountain,,,,,,,,,1,1,,1,,,,,,1,4,No
+Black Mountain – Rumford,,,,,,,,,,1,,1,,1,,,1,,4,No
+Camden Snow Bowl,,,,,,,,,,1,,1,,,,,,1,3,No
+Hermon Mountain,,,,,,,,,,,,1,,1,,,,,2,No
+Lonesome Pine,,,,,,,,,,,,,,1,,,1,,2,Yes
+Lost Valley,,,,,,,,,,,,3,,,,,,1,4,No
+Mount Abram,,,,,,,,,,,,2,,1,,,,1,4,No
+Mount Jefferson,,,,,,,,,,,,,,1,,,1,,2,Yes
+Pinnacle Park,,,,,,,,,,,,,,,,,2,,2,Yes
+Pleasant Mountain,,,,,,,,1,1,2,,,,,,,,2,6,No
+Powderhouse Hill,,,,,,,,,,,,,,,,,1,,1,Yes
+Quoggy Joe Ski Center,,,,,,,,,,,,,,1,,,,,1,Yes
+Saddleback,,,,,,,,1,3,,,,,,1,,,1,6,No
+Spruce Mountain,,,,,,,,,,,,,,,,,3,,3,Yes
+Sugarloaf,,,,,,,,3,3,1,,5,,2,,,,1,15,No
+Sunday River,,,,,1,1,1,2,5,5,,1,,1,,,,3,20,No
+Titcomb Mountain,,,,,,,,,,,,,,2,,,1,,3,Yes
+Wisp,,,,,,,,,2,5,,,,,,,1,5,13,No
+Berkshire East,,,,,,,,1,2,,,1,,,,,,2,6,No
+Blue Hills,,,,,,,,,,,,1,,,,,,2,3,No
+Bousquet,,,,,,,,,,1,,1,,,,,,1,3,No
+Butternut,,,,,,,,,5,,,,,,,,,4,9,No
+Catamount,,,,,,,,,2,3,,,,,,,,3,8,No
+Jiminy Peak,,,,,,1,,,2,3,,1,,,,,,2,9,No
+Nashoba Valley,,,,,,,,,,3,,1,,,,,3,4,11,No
+Otis Ridge,,,,,,,,,,,,1,,1,,,1,2,5,No
+Bradford,,,,,,,,,,3,,,,1,,,3,3,10,No
+Ward Hill – Shrewsbury,,,,,,,,,,1,,,,1,,,1,1,4,No
+Wachusett Mountain,,,,,,1,,2,,1,,,,,,,,3,7,No
+Adventure Mountain,,,,,,,,,,,,,,,,,1,,1,Yes
+Alpine Valley (Michigan),,,,,,,,,1,3,,1,,,,,2,2,9,No
+Big Powderhorn Mountain,,,,,,,,,,,,9,,,,,1,,10,No
+Bittersweet,,,,,,,,2,,3,,1,,,,,2,3,11,No
+Boyne Mountain,,,,,1,1,,,4,1,,2,,,,,,1,10,No
+Caberfae Peaks,,,,,,,,,1,3,,,,,,,,1,5,No
+Cannonsburg,,,,,,,,,1,1,,1,,,,,4,1,8,No
+Crystal Mountain (Michigan),,,,,,,,1,3,2,,,,,,,,2,8,No
+John & Melissa Besse Sports Park – Gladstone,,,,,,,,,,,,,,,,,2,,2,Yes
+Hanson Hills,,,,,,,,,,,,,,1,,,2,,3,Yes
+Hiawatha – Rock River Township,,,,,,,,,,,,,,,,,1,,1,Yes
+The Homestead Resort,,,,,,,,,,2,,1,,,,,1,1,5,No
+Marquette Mountain,,,,,,,,,,1,,2,,,,,1,,4,No
+Missaukee Mountain,,,,,,,,,,,,,,,,,2,,2,Yes
+Mont Ripley,,,,,,,,,,,,2,,1,,,1,,4,No
+Mount Bohemia,,,,,,,,,,1,,1,,,,,,,2,No
+Mount Brighton,,,,,,,,,2,3,,,,,,,5,2,12,No
+Mount Holiday,,,,,,,,,,,,2,,,,,,,2,No
+Mount Holly,,,,,,,,2,2,2,,1,,,,,4,2,13,No
+Mount McSauba,,,,,,,,,,,,,,,,,4,,4,Yes
+Mount Zion Hill,,,,,,,,,,,,1,,,,,3,,4,No
+Mulligan’s Hollow Ski Bowl,,,,,,,,,,,,,,,,,5,,5,Yes
+Norway Mountain,,,,,,,,,,1,,2,,,,,3,,6,No
+Nub’s Nob Ski Area,,,,,,,,,3,4,,1,,,,,1,1,10,No
+Otsego,,,,,,,,,1,1,,3,,,,,,,5,No
+Pine Knob,,,,,,,,,,5,,,,,,,5,3,13,No
+Pine Mountain,,,,,,,,,,1,,2,,,,,3,,6,No
+Porcupine Mountain,,,,,,,,,,1,,,,,,,2,,3,No
+Shanty Creek Resorts – Schuss Mountain,,,,,,,,,5,,,2,,,,,1,1,9,No
+Ski Brule,,,,,,,,,,,,5,,2,,,5,,12,No
+Snow Snake,,,,,,,,,,1,,,,,,,2,1,4,No
+Snowriver: Black River Basin,,,,,,,,,,,,4,,,,,1,,5,No
+Snowriver: Jackson Creek Summit,,,,,,1,,,,,,2,,1,,,1,1,6,No
+Swiss Valley,,,,,,,,,2,1,,,,,,,2,,5,No
+The Highlands at Harbor Springs,,,,,,1,,1,3,1,,,,,,,1,2,9,No
+Timber Ridge,,,,,,,,,1,1,,2,,,,,4,1,9,No
+Treetops,,,,,,,,,,3,,,,,,,,2,5,No
+Afton Alps,,,,,,,,,1,2,,12,,,,,2,2,19,No
+Andes Tower Hills,,,,,,,,,1,2,,,,,,,1,2,6,No
+Buck Hill,,,,,,,,,2,1,,,,,,,4,2,9,No
+Buena Vista,,,,,,,,,,2,,2,,,,,1,,5,No
+Chester Bowl,,,,,,,,,,,,1,,,,,,,1,No
+Coffee Mill,,,,,,,,,,,,2,,,,,1,,3,No
+Detroit Mountain,,,,,,,,,,2,,,,,,,2,2,6,No
+Giants Ridge,,,,,,,,1,1,1,,2,,,,,,2,7,No
+Hyland Hills,,,,,,,,,3,,,,,,,,3,2,8,No
+Lutsen Mountains,,1,,,,2,,,,,,3,,,,,,1,7,No
+Mount Kato,,,,,,,,,5,,,3,,,,,,1,9,No
+Mount Ski Gull,,,,,,,,,,1,,,,,,,1,1,3,No
+Powder Ridge (Minnesota),,,,,,,,,2,,,1,,,1,,3,,7,No
+Spirit Mountain,,,,,,,,1,2,,,,,,,,1,2,6,No
+Steeplechase,,,,,,,,,,2,,2,,,,,,,4,No
+Welch Village,,,,,,,,,7,1,,,,,,,1,2,11,No
+Wild Mountain,,,,,,,,,4,,,,,,,,4,1,9,No
+Hidden Valley (Missouri),,,,,,,,,2,2,,1,,,,,1,1,7,No
+Snow Creek,,,,,,,,,,2,,1,,,,,1,1,5,No
+Bear Paw Ski Bowl,,,,,,,,,,,,1,,,,,1,,2,No
+Big Sky Resort,1,2,,,2,2,,4,3,9,,4,,,,3,1,8,39,No
+Blacktail Mountain,,,,,,,,,,1,,2,,,,,,1,4,No
+Bridger Bowl,,,,,,,,,1,6,,1,,,,1,,2,11,No
+Discovery Ski Area,,,,,,,,,,5,,2,,,,,,1,8,No
+Great Divide,,,,,,,,,,,,5,,,,,1,,6,No
+Lost Trail Powder Mountain,,,,,,,,,,,,5,,,,,1,,6,No
+Maverick Mountain,,,,,,,,,,,,1,,,,,1,,2,No
+Montana Snowbowl,,,,,,,,,,1,,3,,1,,,1,,6,No
+Red Lodge Mountain,,,,,,,,2,,1,1,2,,,,,,2,8,No
+Showdown,,,,,,,,,,1,,2,,,,,,1,4,No
+Teton Pass,,,,,,,,,,,,1,,,,1,,1,3,No
+Turner Mountain,,,,,,,,,,,,1,,,,,,,1,No
+Whitefish Mountain Resort,,,,,,1,,3,2,6,,,,2,,,,2,16,No
+Diamond Peak,,,,,,,,1,2,,,3,,,,,,1,7,No
+Elko Snowbowl,,,,,,,,,,,,1,,,,,1,,2,No
+Las Vegas Ski and Snowboard Resort – Lee Canyon,,,,,,,,,3,1,,,,,,,,1,5,No
+Mount Rose,,,,,,2,,1,2,1,,,,,,,,3,9,No
+Abenaki,,,,,,,,,,,,,,,,,2,,2,Yes
+Attitash Mountain Resort,,,,,,,,3,2,2,,,,,,,,1,8,No
+Black Mountain – Jackson,,,,,,,,,,1,,1,,,1,1,1,,5,No
+Bretton Woods,,1,,,,,,4,1,,,,,1,,,,2,9,No
+Campton Mountain,,,,,,,,,,,,1,,,,,1,,2,No
+Cannon Mountain,1,,,,,,,1,2,3,,1,,1,,,1,,10,No
+Cranmore Mountain Resort,,,,,,,,1,1,2,,1,,,,,,2,7,No
+Crotched Mountain,0,,,,,,,1,1,1,,1,,,,,,1,5,No
+Dartmouth Skiway,,,,,,,,,1,,,1,,,,,,2,4,No
+Granite Gorge,,,,,,,,,,,,1,,,,,1,1,3,No
+Gunstock,,,,,,,,1,2,2,,,,,,,,3,8,No
+King Pine,,,,,,,,,,3,,,,,,,,2,5,No
+Loon Mountain,,1,1,,1,,,3,2,,,4,,,,,,2,14,No
+McIntyre,,,,,,,,,,,,2,,,,,,2,4,No
+Mount Eustis,,,,,,,,,,,,,,,,,1,,1,Yes
+Mount Sunapee,,,,,,,,2,1,2,,,,,,,,3,8,No
+Pats Peak,,,,,,,,,1,3,,2,,,1,,2,2,11,No
+Ragged Mountain,,,,,,1,,1,,1,,,,,,,,,3,No
+Red Hill – Moultonborough,,,,,,,,,,,,,,,,,1,,1,Yes
+Storrs Hill,,,,,,,,,,,,,,,,1,,,1,Yes
+Tenney Mountain,,,,,,,,,,1,,1,,,,1,,2,5,No
+Veterans Memorial – Franklin,,,,,,,,,,,,,,1,,,1,,2,Yes
+Waterville Valley,,,,,,1,,1,,2,,3,,2,,,,2,11,No
+Whaleback,,,,,,,,,,,,1,,1,,,1,1,4,No
+Wildcat Mountain,,,,,,,,1,,3,,,,,,,,1,5,No
+Campgaw Mountain,,,,,,,,,,,,2,,,,,,3,5,No
+Mountain Creek,,,,1,,,,2,2,1,,1,,,,,,2,9,No
+Angel Fire,,,,,,,,2,1,,,3,,,,,,2,8,No
+Cloudcroft,,,,,,,,,,,,1,,,,,2,,3,No
+Pajarito Mountain,,,,,,,,,1,1,,3,,,,,,1,6,No
+Red River,,,,,,,,,1,4,,,,,,,2,,7,No
+Sipapu,,,,,,,,,1,2,,1,,,,,,2,6,No
+Ski Apache,,1,,,,,,,3,5,,,,,,,2,,11,No
+Ski Santa Fe,,,,,,,,1,1,2,,1,,,,,,2,7,No
+Taos,,,1,,,,,2,2,4,,1,,,,,,3,13,No
+Beartown,,,,,,,,,,,,,,1,,1,,,2,Yes
+Belleayre Mountain,,1,,,,,,1,3,,,,,,,,,4,9,No
+Brantling,,,,,,,,,,,,,,1,,,5,,6,Yes
+Bristol Mountain,,,,,,,,2,1,1,,1,,,,,,2,7,No
+Buffalo Ski Center,,,,,,,,,,,,2,,2,,,1,1,6,No
+Dry Hill,,,,,,,,,,,,1,,1,,,,,2,No
+Dynamite Hill,,,,,,,,,,,,,,,,,1,,1,Yes
+Four Seasons,,,,,,,,,,,,1,,,,,,1,2,No
+Gore Mountain,,1,,,,,,3,6,1,,,,,1,,,2,14,No
+Greek Peak,,,,,,,,,1,2,,3,,,,,,2,8,No
+Holiday Mountain (New York),,,,,,,,,1,1,,,,,,,,1,3,No
+Holiday Valley,,,,,,1,,3,7,,,,,,,,,2,13,No
+Holimont,,,,,,,,1,1,2,,2,,,,,,2,8,No
+Hunt Hollow Ski Club,,,,,,,,,,1,,1,,1,,,,1,4,No
+Hunter Mountain,,,,,,3,,1,2,1,,2,,,,1,,3,13,No
+Kissing Bridge,,,,,,,,,2,1,,3,,,,,2,1,9,No
+Labrador Mountain,,,,,,,,,,1,,2,,1,,,2,,6,No
+Maple Ski Ridge,,,,,,,,,,1,,1,,,,,2,,4,No
+McCauley Mountain,,,,,,,,,,1,,,,2,,,2,,5,No
+Mount Peter,,,,,,,,,1,,,2,,,,,,3,6,No
+Mount Pisgah,,,,,,,,,,,,,,1,,,1,,2,Yes
+Oak Mountain,,,,,,,,,1,,,,,1,,,,2,4,No
+Peek’N Peak,,,,,,,,,,6,,2,,,,,,3,11,No
+Plattekill,,,,,,,,,,1,,1,,,,,,1,3,No
+Royal Mountain,,,,,,,,,,,,3,,,,,,1,4,No
+Snow Ridge,,,,,,,,,,,,3,,1,,,,1,5,No
+Song Mountain,,,,,,,,,,2,,2,,,,,,,4,No
+Swain,,,,,,,,,3,,,1,,,,,,1,5,No
+Thunder Ridge,,,,,,,,,,1,,2,,,,,,5,8,No
+Titus Mountain,,,,,,,,,,2,,5,,,,,,1,8,No
+Val Bialas Ski Center – Utica,,,,,,,,,,,,,,,,,1,,1,Yes
+Victor Constant,,,,,,,,,,1,,,,,,,1,,2,No
+Villa Roma,,,,,,,,,,,,1,,,,,,,1,No
+West Mountain,,,,,,,,,1,2,,,,,,,1,1,5,No
+Whiteface – Lake Placid,,1,,,,,,2,3,1,,2,,,,,,2,11,No
+Willard Mountain,,,,,,,,,,,,2,,,,,2,1,5,No
+Windham Mountain,,,,,,1,,3,,1,,1,,,,,,5,11,No
+Woods Valley,,,,,,,,,1,,,2,,,,,,2,5,No
+Appalachian Ski Mountain,,,,,,,,,2,,,1,,,,,1,2,6,No
+Beech Mountain,,,,,,,,,4,,,2,,,,,1,2,9,No
+Cataloochee,,,,,,,,,2,1,,,,,,,,2,5,No
+Hatley Pointe,,,,,,,,,2,,,1,,,,,1,1,5,No
+Sapphire Valley,,,,,,,,,1,,,,,,,,1,1,3,No
+Sugar Mountain,,,,,,1,,2,1,,,2,,,,,,1,7,No
+Bottineau Winter Park,,,,,,,,,,1,,,,1,,,2,2,6,No
+Frost Fire Park,,,,,,,,,1,,,,,,,,,1,2,No
+Huff Hills,,,,,,,,,,,,2,,,,,2,,4,No
+Alpine Valley (Ohio),,,,,,,,,2,1,,,,,,,1,1,5,No
+Boston Mills,,,,,,,,,1,4,,1,,,,,,1,7,No
+Brandywine,,,,,,,,,3,2,,,,,,,1,1,7,No
+Mad River Mountain,,,,,,,,,1,2,,2,,,,,3,1,9,No
+Snow Trails,,,,,,,,,,4,,2,,,,,1,2,9,No
+Anthony Lakes Mountain Resort,,,,,,,,,,1,,,,,,,1,1,3,No
+Cooper Spur,,,,,,,,,,,,1,,,,,1,,2,No
+Ferguson Ridge,,,,,,,,,,,,,,1,,,1,,2,Yes
+Hoodoo Ski Area,,,,,,,,,3,1,,1,,,,,,1,6,No
+Mount Ashland,,,,,,,,,,3,,2,,,,,,1,6,No
+Mount Bachelor,,,,,,1,,7,1,3,,,,,,,,3,15,No
+Mount Hood Meadows,,,,,,1,,5,1,,,3,,,,,,1,11,No
+Mount Hood Skibowl,,,,,,,,,,,,4,,,,1,2,2,9,No
+Timberline (Oregon),,,,,,,,6,,,,2,,,,,,1,9,No
+Warner Canyon,,,,,,,,,,1,,,,,,,,,1,No
+Willamette Pass,,,,,,1,,,,4,,,,,,,,1,6,No
+Bear Creek Mountain Resort,,,,,,,,,3,1,,,,,,,,1,5,No
+Big Boulder,,,,,,,,,2,1,,1,,,,,,1,5,No
+Blue Knob,,,,,,,,,,2,,2,,,,,,1,5,No
+Blue Mountain,,,,,,2,,1,,1,,1,,,,,,7,12,No
+Boyce Park,,,,,,,,,,,,1,,,,,,1,2,No
+Camelback,,,,,,1,,1,1,3,,3,,,,,,4,13,No
+Elk Mountain,,,,,,,,,1,,,5,,,,,,,6,No
+Hidden Valley (Pennsylvania),,,,,,,,,2,2,,,,,,,2,2,8,No
+Jack Frost Mountain,,,,,,,,,4,,,2,,,,,,,6,No
+Laurel Mountain,,,,,,,,,1,,,,,,,,1,,2,No
+Liberty Mountain,,,,,,,,,5,,,,,,,,,2,7,No
+Montage Mountain Resort,,,,,,,,,1,3,,1,,,,,,1,6,No
+Mount Pleasant,,,,,,,,,,1,,,,,,1,,1,3,No
+Mystic Mountain,,,,,,,,,1,,,,,,,,1,,2,No
+Roundtop,,,,,,,,,3,2,,,,,1,,,3,9,No
+Seven Springs,,,,,,2,,,4,4,,,,,,,1,3,14,No
+Shawnee Mountain,,,,,,,,1,1,,,4,,,,,,3,9,No
+Big Bear at Masthope Mountain,,,,,,,,,,,,4,,,,,,3,7,No
+Sawmill Mountain Resort,,,,,,,,,,1,,1,,2,,,,,4,No
+Spring Mountain,,,,,,,,,,1,,3,,,,,1,1,6,No
+Tussey Mountain,,,,,,,,,1,,,1,,1,,,,,3,No
+Whitetail,,,,,,,,1,3,,,1,,,,,,2,7,No
+Yawgoo Valley,,,,,,,,,,,,2,,,,,1,,3,No
+Great Bear Ski Valley,,,,,,,,,1,,,,,,,,1,1,3,No
+Terry Peak,,,,,,,,3,,1,,,,,,,,1,5,No
+Ober Mountain,1,,,,,,,,3,,,,,,,,,2,6,No
+Alta,,,,,,1,,3,1,1,,1,,,,1,1,2,11,No
+Beaver Mountain,,,,,,,,,,3,,1,,,,,,2,6,No
+Brian Head,,,,,,,,2,,5,,1,,,,,,2,10,No
+Brighton,,,,,,1,,3,1,1,,,,,,,,2,8,No
+Cherry Peak,,,,,,,,,,3,,,,,,,,1,4,No
+Deer Valley,,2,,,,2,,20,1,5,,1,,,,1,,5,37,No
+Eagle Point,,,,,,,,,1,1,,2,,,,1,,,5,No
+Nordic Valley,,,,,,1,,,,1,,2,,,,,,1,5,No
+Park City,,3,1,1,,6,,10,5,7,,3,,,,,2,3,41,No
+Powder Mountain,,,,,,,,3,7,,,,,,,1,1,1,13,No
+Snowbasin,1,2,,,,3,,3,,1,,,,,,,1,2,13,No
+Snowbird,1,,,,,,,6,1,,,3,,,,,,3,14,No
+Solitude,,,,,,1,,3,2,1,,1,,,,,,1,9,No
+Sundance,,,,,,,,1,4,1,,,,,,,,3,9,No
+Ascutney Mountain,,,,,,,,,,,,,,1,,,1,,2,Yes
+Bolton Valley,,,,,,,,,2,,,3,,,,,1,,6,No
+Living Memorial Park – Brattleboro,,,,,,,,,,,,,,1,,,,,1,Yes
+Bromley Mountain,,,,,,,,1,1,,,4,,1,,,,2,9,No
+Burke Mountain,,,,,,,,2,,,,,,1,1,,,1,5,No
+Cochran,,,,,,,,,,,,,,1,,,1,,2,Yes
+Hard’ack (Aldis Hill),,,,,,,,,,,,,,,,,1,,1,Yes
+Jay Peak,1,,,,,,,1,3,1,,1,,,,,,2,9,No
+Killington,,2,,,,2,,4,5,2,,1,,,,1,,3,20,No
+Lyndon Outing Club,,,,,,,,,,,,,,1,,,1,,2,Yes
+Mad River Glen,,,,,,,,,,,,3,1,,,,1,,5,No
+Magic Mountain (Vermont),,,,,,,,,1,,,2,,,,,1,1,5,No
+Middlebury College Snow Bowl,,,,,,,,,1,2,,,,,,,,1,4,No
+Mount Snow,,,,,,2,,4,,5,,2,,,,,1,5,19,No
+Northeast Slopes,,,,,,,,,,,,,,1,,,2,,3,Yes
+Okemo,,,,,,2,,4,5,2,,,,,,1,,6,20,No
+Pico Mountain,,,,,,,,2,,2,,2,,,,,,1,7,No
+Quechee Lakes Ski Area,,,,,,,,,1,,,,,1,,,1,,3,No
+Saskadena Six,,,,,,,,,1,,,1,,,,,,1,3,No
+Smugglers’ Notch,,,,,,,,,,,,6,,1,,,,2,9,No
+Stowe,,2,,,,1,,3,1,1,,2,,,,,,2,12,No
+Stratton,,1,,,,4,,1,2,1,,1,,,,,,4,14,No
+Sugarbush,,,,,,,,5,6,1,,1,,1,,,,3,17,No
+Bryce Resort,,,,,,,,,3,,,,,,,,,2,5,No
+The Omni Homestead,,,,,,,,,,,,1,,,,,1,,2,No
+Massanutten,,,,,,,,1,2,1,,,,,,,,3,7,No
+Wintergreen Resort,,,,,,2,,,1,1,,1,,,,,,3,8,No
+49 Degrees North,,,,,,,,1,1,,,4,,,,,,1,7,No
+Badger Mountain,,,,,,,,,,,,,,1,,,2,,3,Yes
+Bluewood,,,,,,,,1,,1,,,,,,,,2,4,No
+Crystal Mountain (Washington),,1,,,,2,,2,1,2,,2,,,,,,1,11,No
+Echo Valley – Lake Chelan,,,,,,,,,,,,,,,,1,3,,4,Yes
+Hurricane Ridge,,,,,,,,,,,,,,,,1,2,,3,Yes
+Leavenworth Ski Hill,,,,,,,,,,,,,,,,,2,,2,Yes
+Loup Loup Ski Bowl,,,,,,,,,1,,,,,,,1,1,,3,No
+Meany Lodge,,,,,,,,,,,,,,,,,1,,1,Yes
+Wenatchee – Mission Ridge,,,,,,,,1,,,,3,,,,,2,1,7,No
+Mount Baker,,,,,,,,,7,,,,,,,,2,,9,No
+Mount Spokane,,,,,,,,,,1,,5,,,,,1,1,8,No
+Sitzmark Ski Mountain,,,,,,,,,,,,1,,,,,1,,2,No
+Stevens Pass,,,,,,,,4,2,3,,1,,,,,,2,12,No
+The Summit at Snoqualmie: Alpental,,,,,,,,1,,3,,1,,,,,,1,6,No
+The Summit at Snoqualmie: Summit Areas,0,,,,,,,2,5,3,,5,,,,,,4,19,No
+White Pass,,,,,,,,2,2,1,,,,,,,,3,8,No
+Canaan Valley,,,,,,,,,1,2,,,,,,,,3,6,No
+Oglebay Resort,,,,,,,,,,1,,,,,,,1,,2,No
+Snowshoe Mountain,,,,,,,,3,1,3,,,,,,,,,7,No
+Timberline Mountain (West Virginia),,,,,,1,,,1,,,,,,,,,2,4,No
+Winterplace,,,,,,,,,2,3,,2,,,,,,2,9,No
+Alpine Valley (Wisconsin),,,,,,,,3,,4,,,,,,,2,6,15,No
+Ausblick Ski Club,,,,,,,,,,1,,,,,,,1,,2,No
+Bruce Mound,,,,,,,,,,1,,,,2,,,3,,6,No
+Camp 10,,,,,,,,,,,,1,,2,,,1,,4,No
+Cascade Mountain,,,,,,,,2,3,1,,2,,,,,1,1,10,No
+Christie Mountain,,,,,,,,,,,,1,,1,,,3,,5,No
+Christmas Mountain,,,,,,,,,1,,,,,,,,1,,2,No
+Crystal Ridge,,,,,,,,,,,,1,,,,,2,2,5,No
+Devil’s Head,,,,,,,,,6,,,,,,,,2,,8,No
+Grand Geneva,0,,,,,,,,,,,3,,,,,1,2,6,No
+Granite Peak,,,,,,1,,2,,2,,,,,,,,2,7,No
+Kettlebowl,,,,,,,,,,,,,,,,,5,,5,Yes
+Keyes Peak,,,,,,,,,,,,,,,,,3,,3,Yes
+Little Switzerland,,,,,,,,,,,,4,,,,,3,2,9,No
+Mont du Lac,,,,,,,,,,,,1,,,,,1,1,3,No
+Mount Ashwabay,,,,,,,,,,,,1,,,,,1,,2,No
+Mount La Crosse,,,,,,,,,,,,3,,,,,,1,4,No
+Nordic Mountain,,,,,,,,,,1,,1,,,,,2,2,6,No
+Paul Bunyan Ski Hill,,,,,,,,,,,,,,1,,,5,,6,Yes
+Powers Bluff,,,,,,,,,,,,,,,,,1,,1,Yes
+Standing Rocks Park,,,,,,,,,,,,,,,,,1,,1,Yes
+Sunburst,,,,,,,,,,,,3,,,,,4,2,9,No
+Triangle Sports Area – Green Bay,,,,,,,,,,,,,,,,,3,,3,Yes
+Trollhaugen,,,,,,,,,4,,,,,,,,5,,9,No
+Tyrol Basin,,,,,,,,,,3,,,,,,,2,2,7,No
+Whitecap Mountains,,,,,,,,,,1,,4,,,,,,1,6,No
+Whitetail Ridge – Fort McCoy,,,,,,,,,,,,,,1,,,,,1,Yes
+Wilmot Mountain,,,,,,,,,3,1,,2,,,,,2,2,10,No
+Winter Park (Kewaunee),,,,,,,,,,,,,,1,,,,,1,Yes
+Antelope Butte,,,,,,,,,,,,2,,,,,,1,3,No
+Beartooth Basin,,,,,,,,,,,,,,,,2,,,2,Yes
+Grand Targhee,,,,,,1,,2,2,,,,,,,,,1,6,No
+Hogadon Ski Area,,,,,,,,,,,,1,,,,,,1,2,No
+Jackson Hole,1,2,,,,,,6,3,,,1,,,,,1,2,16,No
+Meadowlark Ski Lodge,,,,,,,,,,1,,1,,,,,,,2,No
+Pine Creek,,,,,,,,,1,,,,,,,,,1,2,No
+Sleeping Giant,,,,,,,,,,1,,1,,,,,,1,3,No
+Snow King,,1,,,,,,,1,2,,,,,,,2,3,9,No
+Snowy Range,,,,,,,,,,1,,3,,,,,,1,5,No
+White Pine,,,,,,,,,,2,,,,,,,,,2,No
+Big Moose,,,,,,,,,,1,,,,,,,,1,2,No
+Timberline Summit Pass,,,,,,,,,,,,1,,,,,,1,2,No

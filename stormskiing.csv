@@ -1,0 +1,456 @@
+name,skiable_acres,annual_snowfall,owner
+Cloudmont,9,6,Independent
+Alyeska,1610,650,Independent
+Arctic Valley,320,250,Independent
+Fort Wainwright/​Birch Hill,,,Independent
+Eaglecrest,640,350,Independent
+Hillberg,,,Independent
+Hilltop,30,76,Independent
+Moose Mountain,200,70,Independent
+Mount Eyak,100,350,Independent
+Skeetawk,30,,Independent
+Skiland – Mt. Aurora,100,300,Independent
+Arizona Snowbowl,777,260,Mountain Capital Partners
+Mount Lemmon,200,180,Independent
+Sunrise Park,1200,250,Independent
+Alta Sierra,80,80,Independent
+Badger Pass,90,300,Independent
+Bear Valley,1680,359,Independent
+Big Bear: Bear Mountain,198,100,Alterra
+Big Bear: Snow Summit,240,100,Alterra
+Big Bear: Snow Valley,240,160,Alterra
+Boreal,380,400,Powdr
+China Peak,1200,300,California Mountain Resort Company
+Coppervale,80,,Independent
+Dodge Ridge,862,300,California Mountain Resort Company
+Donner Ski Ranch,460,396,Independent
+Granlibakken,25,170,Independent
+Heavenly,4800,360,Vail Resorts
+Homewood Mountain Resort,1260,450,JMA Ventures
+June Mountain,1500,250,Alterra
+Kirkwood,2300,354,Vail Resorts
+Mammoth Mountain,3500,400,Alterra
+Mount Baldy,800,170,Independent
+Mount Shasta Ski Park,635,157,Independent
+Mountain High: East,140,117,California Mountain Resort Company
+Mountain High: West,140,117,California Mountain Resort Company
+Northstar California Resort,3170,350,Vail Resorts
+Palisades Tahoe,6000,400,Alterra
+Sierra at Tahoe,2000,480,Independent
+Soda Springs,200,400,Powdr
+Sugar Bowl,1650,500,Independent
+Tahoe Donner,120,400,Independent
+Arapahoe Basin,1428,350,Alterra
+Aspen Highlands,1010,300,Aspen Skiing Company
+Aspen Mountain,826,300,Aspen Skiing Company
+Beaver Creek,2082,325,Vail Resorts
+Breckenridge,2908,353,Vail Resorts
+Buttermilk Mountain,435,200,Aspen Skiing Company
+Chapman Hill,7,71,Independent
+Copper Mountain,2465,305,Powdr
+Cranor Ski Hill,,,Independent
+Crested Butte,1547,234,Vail Resorts
+Echo Mountain – Idaho Springs,60,150,Independent
+Eldora Mountain,680,300,Powdr
+Frisco Adventure Park,,,Independent
+Granby Ranch,406,120,Independent
+Hesperus Ski Area,60,150,Mountain Capital Partners
+Hoedown Hill,12,24,Independent
+Howelsen Hill,50,170,Independent
+Kendall Mountain,16,200,Independent
+Keystone,3149,235,Vail Resorts
+Lake City Ski Hill,14,,Independent
+Lee’s Ski Hill,2,134,Independent
+Loveland,1800,422,Independent
+Monarch,800,350,Independent
+Powderhorn,1600,250,Pacific Group Resorts
+Purgatory,1635,260,Mountain Capital Partners
+Silverton Mountain,1819,400,Independent
+Ski Cooper,480,260,Independent
+Snowmass,3342,300,Aspen Skiing Company
+Steamboat,3500,313,Alterra
+Sunlight Mountain,730,250,Independent
+Telluride,2000,280,Independent
+Vail Mountain,5317,354,Vail Resorts
+Winter Park Resort,3081,327,Alterra
+Wolf Creek,1600,430,Independent
+Mohawk Mountain,107,92,Independent
+Mount Southington,51,80,Independent
+Powder Ridge Mountain Park (Connecticut),80,38,Independent
+Sundown (Connecticut),65,45,Independent
+Bald Mountain,140,100,Independent
+Bogus Basin,2600,250,Independent
+Brundage Mountain,1920,320,Independent
+Chipmunk Hills,30,,Independent
+Cottonwood Butte,260,45,Independent
+Kelly Canyon,640,200,Independent
+Little Ski Hill,50,180,Independent
+Lookout Pass,1023,400,Independent
+Magic Mountain (Idaho),120,230,Independent
+Pebble Creek,1100,225,Independent
+Pomerelle,500,500,Independent
+Rotarun,,100,Independent
+Schweitzer Mountain Resort,2900,300,Alterra
+Silver Mountain,1600,300,CMR Lands
+Snowhaven,40,60,Independent
+Soldier Mountain,1142,100,Independent
+Sun Valley: Bald Mountain,2054,200,The Holding Family
+Sun Valley: Dollar Mountain,,,The Holding Family
+Tamarack Resort,1100,300,Independent
+Chestnut Mountain,220,34,Independent
+Four Lakes,9,24,Independent
+Snowstar,28,39,Independent
+Villa Olivia,15,25,Independent
+Paoli Peaks,65,18,Vail Resorts
+Perfect North Slopes,100,18,The Perfect Family
+Mount Crescent,50,30,Independent
+Seven Oaks,35,40,Independent
+Sundown (Iowa),55,45,Independent
+BigRock Mountain,90,100,Independent
+Big Squaw,,136,Independent
+Black Mountain – Rumford,300,120,Independent
+Camden Snow Bowl,100,50,Independent
+Hermon Mountain,60,90,Independent
+Lonesome Pine,,,Independent
+Lost Valley,45,99,Independent
+Mount Abram,170,115,Independent
+Mount Jefferson,160,75,Independent
+Pinnacle Park,,,Independent
+Pleasant Mountain,249,110,Boyne Resorts
+Powderhouse Hill,,,Independent
+Quoggy Joe Ski Center,,,Independent
+Saddleback,600,225,Independent
+Spruce Mountain,,,Independent
+Sugarloaf,1230,200,Boyne Resorts
+Sunday River,870,167,Boyne Resorts
+Titcomb Mountain,45,85,Independent
+Wisp,132,100,Pacific Group Resorts
+Berkshire East,180,120,The Schaefer Family
+Blue Hills,60,,Independent
+Bousquet,200,83,Independent
+Butternut,110,110,Independent
+Catamount,133,108,The Schaefer Family
+Jiminy Peak,170,100,Independent
+Mount Greylock Ski Club,,,Independent
+Nashoba Valley,59,50,Independent
+Otis Ridge,70,70,Independent
+Bradford,48,,Independent
+Ward Hill – Shrewsbury,45,80,Independent
+Wachusett Mountain,110,100,Independent
+Adventure Mountain,,,Independent
+Alpine Valley (Michigan),100,20,Wisconsin Resorts
+Big Powderhorn Mountain,253,214,Independent
+Bittersweet,100,90,Wisconsin Resorts
+Boyne Mountain,435,140,Boyne Resorts
+Caberfae Peaks,200,140,Independent
+Cannonsburg,100,100,Independent
+Challenge Mountain,,,Independent
+Crystal Mountain (Michigan),103,132,Independent
+John & Melissa Besse Sports Park – Gladstone,25,50,Independent
+Hanson Hills,125,60,Independent
+Hiawatha – Rock River Township,,,Independent
+The Homestead Resort,16,150,Independent
+Marquette Mountain,330,210,Independent
+Missaukee Mountain,25,90,Independent
+Mont Ripley,112,275,Independent
+Mount Bohemia,585,273,Independent
+Mount Brighton,130,60,Vail Resorts
+Mount Holiday,45,120,Independent
+Mount Holly,100,42,Wisconsin Resorts
+Mount McSauba,80,130,Independent
+Mount Zion Hill,20,200,Independent
+Mulligan’s Hollow Ski Bowl,7,60,Independent
+Nub’s Nob Ski Area,248,123,Independent
+Otsego,160,155,Independent
+Pine Knob,80,60,Wisconsin Resorts
+Pine Mountain,80,60,Independent
+Shanty Creek Resorts – Schuss Mountain,80,160,Independent
+Ski Brule,150,150,Independent
+Snow Snake,40,60,Independent
+Snowriver: Black River Basin,170,204,Midwest Family Ski Resorts
+Snowriver: Jackson Creek Summit,230,204,Midwest Family Ski Resorts
+Swiss Valley,60,60,Independent
+The Highlands at Harbor Springs,435,140,Boyne Resorts
+Timber Ridge,50,60,Independent
+Treetops,80,150,Independent
+Afton Alps,300,60,Vail Resorts
+Andes Tower Hills,35,55,Independent
+Buck Hill,45,60,Independent
+Buena Vista,30,78,Independent
+Chester Bowl,6,100,Independent
+Coffee Mill,40,48,Independent
+Detroit Mountain,45,47,Independent
+Giants Ridge,165,62,Independent
+Hyland Hills,35,60,Independent
+Lutsen Mountains,393,120,Midwest Family Ski Resorts
+Mount Kato,65,50,Independent
+Mount Ski Gull,55,50,Independent
+Powder Ridge (Minnesota),60,45,Independent
+Spirit Mountain,174,100,Independent
+Steeplechase,45,,Independent
+Welch Village,140,45,Independent
+Wild Mountain,100,50,Independent
+Hidden Valley (Missouri),65,19,Vail Resorts
+Snow Creek,35,20,Vail Resorts
+Bear Paw Ski Bowl,80,140,Independent
+Big Sky Resort,5800,400,Boyne Resorts
+Blacktail Mountain,1000,250,Independent
+Bridger Bowl,2000,300,Independent
+Discovery Ski Area,2200,215,Independent
+Great Divide,1600,180,Independent
+Lost Trail Powder Mountain,1800,325,Independent
+Maverick Mountain,255,250,Independent
+Montana Snowbowl,950,300,Independent
+Red Lodge Mountain,1635,250,JMA Ventures
+Showdown,640,255,Independent
+Teton Pass,407,250,Independent
+Turner Mountain,1000,200,Independent
+Whitefish Mountain Resort,3000,320,Independent
+Yellowstone Club,2700,300,Independent
+Diamond Peak,655,188,Independent
+Elko Snowbowl,60,24,Independent
+Las Vegas Ski and Snowboard Resort – Lee Canyon,195,129,Mountain Capital Partners
+Mount Rose,1200,350,Independent
+Sky Tavern,,,Independent
+Abenaki,18,,Independent
+Attitash Mountain Resort,311,120,Vail Resorts
+Black Mountain – Jackson,143,125,Independent
+Bretton Woods,464,200,Independent
+Campton Mountain,,,Independent
+Cannon Mountain,285,160,Independent
+Cranmore Mountain Resort,170,120,Independent
+Crotched Mountain,75,105,Vail Resorts
+Dartmouth Skiway,104,100,Independent
+Granite Gorge,25,100,Independent
+Gunstock,227,120,Independent
+King Pine,45,82,Independent
+Loon Mountain,400,160,Boyne Resorts
+McIntyre,37,,Independent
+Mount Eustis,,,Independent
+Mount Sunapee,233,130,Vail Resorts
+Pats Peak,115,100,Independent
+Ragged Mountain,224,100,Pacific Group Resorts
+Red Hill – Moultonborough,,,Independent
+Storrs Hill,20,,Independent
+Tenney Mountain,,,Independent
+Veterans Memorial – Franklin,50,,Independent
+Waterville Valley,265,148,Independent
+Whaleback,85,110,Independent
+Wildcat Mountain,225,207,Vail Resorts
+Campgaw Mountain,23,45,Independent
+Mountain Creek,167,65,Snow Partners
+Angel Fire,560,210,Independent
+Cloudcroft,74,120,Independent
+Pajarito Mountain,750,125,Mountain Capital Partners
+Red River,209,214,Independent
+Sipapu,205,190,Mountain Capital Partners
+Ski Apache,750,180,Independent
+Ski Santa Fe,660,225,Independent
+Taos,1294,300,Independent
+Beartown,32,,Independent
+Belleayre Mountain,171,141,New York State
+Brantling,36,100,Independent
+Bristol Mountain,138,130,Independent
+Buffalo Ski Center,300,,Independent
+Cockaigne,100,175,Independent
+Dry Hill,42,125,Independent
+Dynamite Hill,8,,Independent
+Four Seasons,25,125,Independent
+Gore Mountain,439,150,New York State
+Greek Peak,220,122,Independent
+Holiday Mountain (New York),37,90,Independent
+Holiday Valley,290,180,Independent
+Holimont,135,180,Independent
+Hunt Hollow Ski Club,80,130,Independent
+Hunter Mountain,320,120,Vail Resorts
+Kissing Bridge,,182,Independent
+Labrador Mountain,250,125,Independent
+Maple Ski Ridge,60,60,Independent
+McCauley Mountain,75,180,Independent
+Mount Peter,60,50,Independent
+Mount Pisgah,15,60,Independent
+Oak Mountain,100,101,Independent
+Peek’N Peak,105,200,Independent
+Plattekill,75,175,Independent
+Rocking Horse Ranch,10,30,Independent
+Royal Mountain,40,90,Independent
+Snow Ridge,130,230,Independent
+Song Mountain,100,125,Independent
+Swain,130,120,Independent
+Thunder Ridge,100,60,Independent
+Titus Mountain,200,150,Independent
+Victor Constant,,39,Independent
+Villa Roma,,,Independent
+West Mountain,124,80,Independent
+Whiteface – Lake Placid,288,190,New York State
+Willard Mountain,85,80,Independent
+Windham Mountain,285,100,Independent
+Woods Valley,25,180,Independent
+Appalachian Ski Mountain,27,27,Independent
+Beech Mountain,95,84,Independent
+Cataloochee,50,24,Independent
+Hatley Pointe,72,65,Independent
+Sapphire Valley,8,24,Independent
+Sugar Mountain,115,70,Independent
+Bottineau Winter Park,40,18,Independent
+Frost Fire Park,30,35,Independent
+Huff Hills,80,40,Independent
+Alpine Valley (Ohio),72,120,Vail Resorts
+Boston Mills,40,54,Vail Resorts
+Brandywine,40,54,Vail Resorts
+Mad River Mountain,144,36,Independent
+Snow Trails,80,52,Vail Resorts
+Anthony Lakes Mountain Resort,1100,300,Independent
+Cooper Spur,50,100,Independent
+Ferguson Ridge,170,300,Independent
+Hoodoo Ski Area,806,350,Independent
+Mount Ashland,240,300,Independent
+Mount Bachelor,4323,462,Powdr
+Mount Hood Meadows,2150,430,Independent
+Mount Hood Skibowl,960,300,Independent
+Timberline Summit Pass,50,250,Independent
+Timberline (Oregon),1685,540,Independent
+Warner Canyon,200,50,Independent
+Willamette Pass,555,430,Mountain Capital Partners
+Bear Creek Mountain Resort,86,30,Independent
+Big Boulder,55,50,Vail Resorts
+Blue Knob,100,120,Independent
+Blue Mountain,164,33,Independent
+Boyce Park,25,36,Independent
+Camelback,160,50,Independent
+Eagle Rock,,,Independent
+Elk Mountain,140,65,Independent
+Hidden Valley (Pennsylvania),110,140,Vail Resorts
+Jack Frost Mountain,100,50,Vail Resorts
+Laurel Mountain,70,41,Vail Resorts
+Liberty Mountain,100,31,Vail Resorts
+Montage Mountain Resort,140,47,Independent
+Mount Pleasant,35,150,Independent
+Mystic Mountain,27,31,Independent
+Roundtop,103,30,Vail Resorts
+Seven Springs,285,135,Vail Resorts
+Shawnee Mountain,120,50,Independent
+Big Bear at Masthope Mountain,26,50,Independent
+Sawmill Mountain Resort,15,24,Independent
+Spring Mountain,45,27,Independent
+Tussey Mountain,38,41,Independent
+Whitetail,109,40,Vail Resorts
+Yawgoo Valley,36,39,Independent
+Deer Mountain,200,150,Independent
+Great Bear Ski Valley,20,49,Independent
+Terry Peak,450,150,Independent
+Ober Mountain,38,35,Independent
+Alta,2614,540,Independent
+Beaver Mountain,880,400,Independent
+Brian Head,650,360,Mountain Capital Partners
+Brighton,1050,500,Boyne Resorts
+Cherry Peak,400,320,Independent
+Deer Valley,2026,300,Alterra
+Eagle Point,650,400,Independent
+Nordic Valley,200,300,Mountain Capital Partners
+Park City,7300,355,Vail Resorts
+Powder Mountain,8464,400,Independent
+Snowbasin,3000,300,The Holding Family
+Snowbird,2500,500,Powdr
+Solitude,1200,500,Alterra
+Sundance,450,300,Independent
+Utah Olympic Park,,,Independent
+Wasatch Peaks Ranch,,400,Independent
+Woodward Park City,,150,Powdr
+Ascutney Mountain,26,,Independent
+Bolton Valley,300,300,Independent
+Living Memorial Park – Brattleboro,8,,Independent
+Bromley Mountain,178,145,Independent
+Burke Mountain,178,217,Independent
+Cochran,15,150,Independent
+Hard’ack (Aldis Hill),,,Independent
+Haystack Mountain – The Hermitage Club,200,,Independent
+Jay Peak,385,349,Pacific Group Resorts
+Killington,1509,250,Powdr
+Lyndon Outing Club,18,,Independent
+Mad River Glen,115,250,Independent
+Magic Mountain (Vermont),205,150,Independent
+Middlebury College Snow Bowl,110,200,Independent
+Mount Snow,601,150,Vail Resorts
+Northeast Slopes,,,Independent
+Okemo,632,200,Vail Resorts
+Pico Mountain,468,250,Powdr
+Quechee Lakes Ski Area,,,Independent
+Smugglers’ Notch,1000,288,Independent
+Stowe,485,314,Vail Resorts
+Stratton,670,180,Alterra
+Sugarbush,581,250,Alterra
+Saskadena Six,100,90,Independent
+Bryce Resort,50,30,Independent
+The Omni Homestead,45,50,Independent
+Massanutten,70,35,Independent
+Wintergreen Resort,129,40,Pacific Group Resorts
+49 Degrees North,2325,301,CMR Lands
+Badger Mountain,10,120,Independent
+Bluewood,355,300,Independent
+Crystal Mountain (Washington),2600,466,Alterra
+Echo Valley – Lake Chelan,70,100,Independent
+Hurricane Ridge,250,400,Independent
+Leavenworth Ski Hill,17,150,Independent
+Loup Loup Ski Bowl,550,150,Independent
+Meany Lodge,100,,Independent
+Wenatchee – Mission Ridge,2000,200,Independent
+Mount Baker,1000,701,Independent
+Mount Spokane,1704,300,Independent
+Sahalie Ski Club,80,,Independent
+Sitzmark Ski Mountain,80,60,Independent
+Stevens Pass,1125,460,Vail Resorts
+The Summit at Snoqualmie: Alpental,875,428,Boyne Resorts
+The Summit at Snoqualmie: Summit Areas,1119,428,Boyne Resorts
+White Pass,1402,400,Independent
+Canaan Valley,95,160,Independent
+Oglebay Resort,,,Independent
+Snowshoe Mountain,257,180,Alterra
+Timberline Mountain (West Virginia),100,200,The Perfect Family
+Winterplace,90,100,Independent
+Alpine Valley (Wisconsin),90,80,Wisconsin Resorts
+Ausblick Ski Club,10,,Independent
+Bruce Mound,40,45,Independent
+Camp 10,120,60,Independent
+Cascade Mountain,176,80,Independent
+Christie Mountain,45,60,Independent
+Christmas Mountain,40,40,Independent
+Devil’s Head,300,70,Independent
+Fox Hill,,,Independent
+Grand Geneva,20,46,Independent
+Granite Peak,155,75,Midwest Family Ski Resorts
+Heiliger Huegel Ski Club,20,,Independent
+Kettlebowl,,,Independent
+Keyes Peak,15,60,Independent
+Little Switzerland,50,45,Schmitz Brothers
+Mount Ashwabay,65,120,Independent
+Mount La Crosse,100,30,Independent
+Mont du Lac,20,55,Independent
+Nordic Mountain,60,60,Schmitz Brothers
+Paul Bunyan Ski Hill,,65,Independent
+Powers Bluff,,,Independent
+Standing Rocks Park,30,45,Independent
+Sunburst,40,50,Independent
+Crystal Ridge,30,50,Schmitz Brothers
+Triangle Sports Area – Green Bay,,,Independent
+Trollhaugen,86,50,Independent
+Tyrol Basin,32,41,Independent
+Whitecap Mountains,400,200,Independent
+Whitetail Ridge – Fort McCoy,,,Independent
+Wilmot Mountain,120,48,Vail Resorts
+Winter Park (Kewaunee),5,,Independent
+Antelope Butte,225,200,Independent
+Beartooth Basin,600,,Independent
+Meadowlark Ski Lodge,300,160,Independent
+Grand Targhee,2602,500,Independent
+Hogadon Ski Area,60,140,Independent
+Jackson Hole,2500,459,Independent
+Pine Creek,370,150,Independent
+Sleeping Giant,184,310,Independent
+Snow King,500,300,Independent
+Snowy Range,250,245,Independent
+White Pine,370,150,Independent
+Mt. Waterman,150,180,Independent
+Val Bialas Ski Center – Utica,10,88,Independent
+Norway Mountain,80,27,Independent
+Porcupine Mountain,250,200,Independent
